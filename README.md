@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ryan, a software engineering student at Heriot Watt University.
+- 👋 Hi, I’m Ryan
 - 👀 I’m interested in video games, reading, painting 40k models... pretty much anything geeky you can think about I probably enjoy.
 - 🌱 I’m currently learning web development, I'm starting with the basics of frontend and trying to get a good understanding of HTML and CSS before moving on.
 
